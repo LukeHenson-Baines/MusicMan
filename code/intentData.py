@@ -9,7 +9,7 @@ STDATA = {
         'whats up': 'Not much. How can I assist you today?',
         'hows the weather': "I'm afraid I don't have real-time weather information.",
         'tell me about yourself': "I'm your friendly virtual assistant here to help with playlists and more!",
-        'who created you': 'I was created by a team of developers at OpenAI.'
+        'who created you': 'I was created by Luke Henson-Baines for a university project.'
 }
 
 # Intents for Playlist Management
